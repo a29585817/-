@@ -56,3 +56,6 @@ def main():
     write_file("product.csv",products)
 
 main()
+
+
+#refactor 重構
